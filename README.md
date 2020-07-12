@@ -1,2 +1,2 @@
 # ifundawitch
-a CryptoKitties project about past and current witches whom value for humanity was greatly misunderstood. 
+a CryptoKitties project about past and current witches whom values towards humanity was greatly misunderstood. Ifundawitch is not a project for valuing eccentricity or non-conformism. It's rather a project for understanding society past and present flaws that pushes creativeness into it's bounderies and triggers the necessity of an individual to built autonomous self-sustaining and authenticly natural projects for freedom.
