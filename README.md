@@ -1,2 +1,2 @@
 # ifundawitch
-a CryptoKitties project about past and current witches whom value for humanity was greatly misunderstood. 
+a CryptoKitties project about past and current witches whom values for humanity was greatly misunderstood. 
